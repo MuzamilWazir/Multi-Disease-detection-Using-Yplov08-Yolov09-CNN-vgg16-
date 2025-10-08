@@ -18,7 +18,8 @@ Each image is annotated for multiple disease types such as:
 
 Below is a snapshot of the dataset annotation process on Roboflow 👇
 
-![Dataset Screenshot](./image/Screenshot (20).png)
+![Dataset Screenshot](./Screenshot%20(20).png)
+
 
 ---
 
